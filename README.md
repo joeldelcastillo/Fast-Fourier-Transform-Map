@@ -136,7 +136,7 @@ Idea: I want to represent Bad Bunny music signal in time.
 - As FFT values are complex numbers. I will take the absolute value to represent them in the map.
 - I will create this map with triangles and vertices. Each vertex represent the frequency $ f^* $ in time.
 
-![image](./IMG/dakiti.jpg)
+![image](./IMG/Dakiti.jpg)
 
 ## Interesting Notes
 
